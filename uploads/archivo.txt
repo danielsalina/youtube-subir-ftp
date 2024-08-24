@@ -1,0 +1,3 @@
+Este es un script de prueba...
+
+Veamos como se sube el archivo al servidor a traves del ftp
